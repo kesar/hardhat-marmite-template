@@ -1,7 +1,7 @@
 # Testing marmite
 ```shell
 npx hardhat golf:contract --contract Foo --func set --params 42
-
+npx hardhat golf:script ./scripts/marmite.ts
 ```
 
 
